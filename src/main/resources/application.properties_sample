@@ -1,0 +1,4 @@
+spring.application.name=Service now
+
+
+service.now.instance=<service now instance url>
